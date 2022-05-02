@@ -1,1 +1,2 @@
 gitten ikinci txt dosyası eklendi. 3. commit yazılacak
+txt içinde intellij den değişiklik yapıldı.
